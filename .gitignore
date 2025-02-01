@@ -1,0 +1,15 @@
+# Rust
+target/
+
+# Editor specific
+.vscode/
+
+# Build artifacts
+*.rs.bk
+*.so, *.dll, *.dylib
+*.o
+*.dSYM
+
+# Other temp files
+*.log
+*.tmp
