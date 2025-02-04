@@ -1,6 +1,6 @@
 # encryption
 
-Reprogramming as many encryption protocols as possible in rust:
+Reprogramming as many encryption protocols as possible in rust and C++.
 
 Todo
 1. Diffe-Hellman key exchange
